@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+        <item
+            android:id="@+id/action_select"
+            android:title="Search"
+            android:icon="@drawable/iconsfind30"
+            app:showAsAction="ifRoom|collapseActionView"
+            app:actionViewClass="androidx.appcompat.widget.SearchView" />
+        <item
+            android:id="@+id/action_soft"
+            android:title="SORT"
+            app:showAsAction="ifRoom"
+            />
+
+
+                        <item
+                            android:id="@+id/action_selectAll"
+                            android:title="Select all notes" />
+                        <item
+                            android:id="@+id/action_importfiles"
+                            android:title="Import text files" />
+                        <item
+                            android:id="@+id/action_exportnotes"
+                            android:title="Export notes to text file" />
+
+
+</menu>

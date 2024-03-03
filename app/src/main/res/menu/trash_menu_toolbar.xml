@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_undeleteall"
+        android:title="Undelete all"
+       />
+    <item
+        android:id="@+id/action_exportnotetrash"
+        android:title="Export notes to text file"
+        />
+    <item
+        android:id="@+id/action_emptytrash"
+        android:title="Empty trash"
+        />
+
+
+</menu>

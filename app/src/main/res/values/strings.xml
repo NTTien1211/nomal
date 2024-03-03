@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Notepad</string>
+
+    <string name="drawer_open">Drawer open</string>
+    <string name="drawer_close">Drawer close</string>
+    <string name="txt_size">Text size</string>
+    <string name="txt_sizedefault">SET DEFAULT (18)</string>
+    <string name="txt_showinstruc">SHOW INSRUCTIONS</string>
+    <string name="txt_savefilebackup">SAVE BACKUP TO A FILE</string>
+    <string name="txt_loadnode">LOAD NOTES FROM A BACKUP FILE</string>
+    <string name="txt_privacy">Privacy policy</string>
+    <string name="txt_notepadfree">Notepad Free</string>
+    <string name="txt_notepadfreenote">(Notepad - simple notes)</string>
+    <string name="txt_notepadfreenot1">1. Notes</string>
+    <string name="txt_theme">Theme</string>
+    <string name="txt_visiable">Changes color theme of visible elements</string>
+    <string name="txt_passtext">Password settings</string>
+    <string name="txt_notelist">Note list</string>
+    <string name="txt_noteediting">Note editing</string>
+    <string name="txt_trash">Move deleted notes to "'Trash'"</string>
+    <string name="txt_trashdele">Deleted notes will be stored in the "'Trash'" foder</string>
+    <string name="txt_attach">Attach diagnosic info</string>
+    <string name="txt_attachmain">Diagnostic info will be attached to e-mail messages</string>
+    <string name="txt_hidenote">Hide note titles in diagnostic log</string>
+    <string name="txt_hidenotetitle">Hides notes titles in diagnostic info before sending it to the technical support</string>
+    <string name="txt_devicebackup">Use the device"'s" backup</string>
+    <string name="txt_devicecan">The device can save notes in its backup copt. Important: please read the Help section to get more information</string>
+    <string name="txt_privacysetting">Privacy setting</string>
+    <string name="txt_add">ADD</string>
+    <string name="txt_expand">Expand all answers</string>
+    <string name="txt_notefr">NotesFree</string>
+    <string name="txt_untitled">Untitled</string>
+    <string name="txt_last">Last edit: </string>
+    <string name="txt_search">Search...</string>
+
+
+
+    <string name="txt_maininstruc">A backup coppy of a file containing copy of each note (expect deleted motes in the Trash foder). It can be used to make copy of notes outside the device, or to transfer notes to another device. Categories are not included in a backup copy file</string>
+    <string name="privacy_titil">This document describes data collected and processed by the "Notepad Free" app and third party software. By using the app, user consents to the privacy policy.</string>
+    <string name="privacy_1">All of the notes that user creates are stored in the app internal storage. The notes cant be accessed by any other app on the phone. The only way to access the notes is to use the app. To be clear: <b>only user of the app can see notes stored on the phone</b> . Although this document may seem long, that (in the authors opinion) is the most important information. Since the 1.7.0 version, the app uses Google device backup copy, if its turned on in the devices and the apps settings. In that case an encrypted copy of notes is stored on Google Drive. It can be changed by a user at any time. More information is available on Googles support pages.</string>
+
+</resources>

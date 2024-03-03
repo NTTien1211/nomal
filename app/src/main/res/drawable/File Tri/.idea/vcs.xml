@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/AiSound" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AppLock" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BiAManager" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Dont-touch-my-phone" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DontTouchMyPhone" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FlashLight" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GhostDectector" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PhoneTracker2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/applocker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/blood-pressure" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/caculatorlock" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/call-theme" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dog-translator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/door-lock" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/english-translate" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/forecastie" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/music-player" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/qrscanner" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/trackerapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/voicechange" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/voicescreenlock" vcs="Git" />
+  </component>
+</project>

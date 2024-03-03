@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/item_notes"
+            android:icon="@drawable/baseline_note_24"
+            android:title="Notes" />
+    </group>
+    <item android:title="Categories">
+            <menu>
+                <group android:checkableBehavior="single">
+                    <item
+                        android:id="@+id/item_editcategory"
+                        android:icon="@drawable/baseline_edit_note_24"
+                        android:title="Edit categories" />
+                </group>
+                <group android:id="@+id/menu_groups_add"
+                    android:checkableBehavior="single">
+
+                </group>
+            </menu>
+    </item>
+    <item android:title="">
+        <menu>
+                <item
+                    android:id="@+id/item_backup"
+                    android:icon="@drawable/iconsbackup30"
+                    android:title="Backup" />
+                <item
+                    android:id="@+id/item_trach"
+                    android:icon="@drawable/iconstrash30"
+                    android:title="Trash"
+                    />
+        </menu>
+    </item>
+    <item android:title="">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/item_setting"
+                    android:icon="@drawable/iconssetting30"
+                    android:title="Setting" />
+                <item
+                    android:id="@+id/item_rate"
+                    android:icon="@drawable/iconsremindapp30"
+                    android:title="Rate the app" />
+                <item
+                    android:id="@+id/item_help"
+                    android:icon="@drawable/iconshelp30"
+                    android:title="Help" />
+                <item
+                    android:id="@+id/item_privacy"
+                    android:icon="@drawable/iconsprivacy30"
+                    android:title="Privacy policy" />
+            </group>
+        </menu>
+    </item>
+
+</menu>

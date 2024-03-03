@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_choiceall"
+        android:title="Search"
+        android:icon="@drawable/iconsall30"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/action_deletehandler"
+        android:icon="@drawable/iconstrash30"
+        android:title="SORT"
+        app:showAsAction="ifRoom"
+        />
+
+
+    <item
+        android:id="@+id/action_selectAll"
+        android:title="Select all notes" />
+    <item
+        android:id="@+id/action_categorize"
+        android:title="Categorize" />
+    <item
+        android:id="@+id/action_calorizehander"
+        android:title="Colorize" />
+
+
+</menu>
